@@ -7,12 +7,13 @@
     "S S"
   ],
   "key": {
-    "S": {
-      "item": "minecraft:bamboo"
-    }
+    "S": [
+      "minecraft:bamboo"
+    ]
   },
   "result": {
-    "count": 6,
-    "id": "minecraft:scaffolding"
+    "id": "minecraft:scaffolding",
+    "components": {},
+    "count": 6
   }
 }
