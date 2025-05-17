@@ -1,19 +1,18 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "pattern": [
-    "SSS",
-    "S S",
-    "S S"
-  ],
   "key": {
-    "S": [
-      "minecraft:bamboo"
-    ]
+    "I": {
+      "item": "minecraft:bamboo"
+    }
   },
+  "pattern": [
+    "III",
+    "I I",
+    "I I"
+  ],
   "result": {
-    "id": "minecraft:scaffolding",
-    "components": {},
-    "count": 6
+    "count": 6,
+    "id": "minecraft:scaffolding"
   }
 }
